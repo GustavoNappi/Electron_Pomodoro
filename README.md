@@ -6,9 +6,8 @@ Pomodoro Timer feito com ElectronJS, HTML, CSS e JavaScript. Uma aplicação de 
 
 Um temporizador Pomodoro simples desenvolvido com **ElectronJS**, **HTML**, **CSS** e **JavaScript**. Este projeto tem como objetivo ajudar no gerenciamento do tempo e aumento da produtividade, utilizando a técnica Pomodoro.
 
- ![Foto App Completo](assets/TELA INTEIRA.png)<!-- Substitua por uma imagem real se quiser -->
-
----
+ [Visual do App]
+ (assets/TELA%20INTEIRA.png)
 
 ## 🧠 O que é a Técnica Pomodoro?
 
